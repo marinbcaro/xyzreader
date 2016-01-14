@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-ad83b700b0680d4401d1f142245d041d07f88997.jar" />
+    </item>
+    <item
+        jar="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-4e0060a39d5bc8aa251632165929887df2851bee.jar" />
+    </item>
+    <item
+        jar="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-681bb8de51147f007d727d5056f31e9a18dbde4f.jar" />
+    </item>
+    <item
+        jar="/Users/carolinamarin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.0/1477ec5caf8319ab4b51eb43553cd66aa86fdea5/okhttp-2.7.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1477ec5caf8319ab4b51eb43553cd66aa86fdea5">
+        <dex dex="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-2.7.0-09942633126e743e4586e530749f85be83370cc3.jar" />
+    </item>
+    <item
+        jar="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-1e5772edf7c3452f5db6fc783031bfcbe1bf813b.jar" />
+    </item>
+    <item
+        jar="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-57d7ec1265996d085802ceeb6f19889574255c57.jar" />
+    </item>
+    <item
+        jar="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-75b22602d81db96c190ed4da253e9923111bd389.jar" />
+    </item>
+    <item
+        jar="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-49e24eda0778d921cc36e822729366d0f5368385.jar" />
+    </item>
+    <item
+        jar="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-3ecfa135ca8cdeb44aeaf5989a56345aff947c90.jar" />
+    </item>
+    <item
+        jar="/Users/carolinamarin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-b64acdb053c5ceb5da3daba2652e351c3ad8307c.jar" />
+    </item>
+    <item
+        jar="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-180120b258d321e6ce1905e3e67d151d9830c816.jar" />
+    </item>
+    <item
+        jar="/Users/carolinamarin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-f0af6ac9b237986c4302dfd7d34d97c405fc1d1f.jar" />
+    </item>
+    <item
+        jar="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/carolinamarin/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-f71eef0e5293d0fad1da455f22b841a6ef8b951e.jar" />
+    </item>
+
+</items>
